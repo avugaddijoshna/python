@@ -8,13 +8,15 @@ This is a simple Python program that displays a restaurant menu with item names 
 - Python
 - VS Code
 - GitHub
+- ## Program Features
+- Displays restaurant menu
+- Uses dictionary for items and prices
+- Beginner-friendly Python code
+
 
 ## How to Run
 ```bash
 python restaurant_menu.py
-## Program Features
-- Displays restaurant menu
-- Uses dictionary for items and prices
-- Beginner-friendly Python code
+e
 
 
