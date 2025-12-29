@@ -17,6 +17,6 @@ This is a simple Python program that displays a restaurant menu with item names 
 ## How to Run
 ```bash
 python restaurant_menu.py
-e
+
 
 
